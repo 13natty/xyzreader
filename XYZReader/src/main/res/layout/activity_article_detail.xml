@@ -57,8 +57,6 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         app:behavior_overlapTop="@dimen/margin_overlay_top"
-        android:layout_marginLeft="@dimen/margin_16"
-        android:layout_marginRight="@dimen/margin_16"
         app:layout_behavior="@string/appbar_scrolling_view_behavior"/>
 
 

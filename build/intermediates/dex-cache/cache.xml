@@ -33,14 +33,14 @@
         jar="C:\Users\F3838284\StudioProjects\xyzreader\XYZReader\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         revision="22.0.1"
-        sha1="4188c092042261826e4a7994240cf3e257768ef8">
+        sha1="7c89f266dc1b489fd1fbebfd2b7deec8991046dc">
         <dex dex="C:\Users\F3838284\StudioProjects\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_efb75b4723f7cea80efee46187d9297a586362aa\classes.dex" />
     </item>
     <item
         jar="C:\Users\F3838284\StudioProjects\xyzreader\XYZReader\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         revision="22.0.1"
-        sha1="cee400600df5a0fa116d6a6bb68261f4178c3a53">
+        sha1="686c35ad2c680fc3783b87d99ba5149553887666">
         <dex dex="C:\Users\F3838284\StudioProjects\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_3f744f6c33bf82e3826849396fb7e010e66388d8\classes.dex" />
     </item>
     <item
