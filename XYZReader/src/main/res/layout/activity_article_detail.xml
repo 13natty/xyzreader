@@ -66,6 +66,9 @@
         app:layout_anchor="@id/pager"
         app:layout_anchorGravity="bottom|right|end"
         android:src="@android:drawable/ic_menu_share"
+        app:elevation="6dp"
+        app:borderWidth="0dp"
+        android:layout_above="@+id/pager"
         android:layout_margin="@dimen/fab_margin"
         android:clickable="true"
         android:id="@+id/fab_share"/>
