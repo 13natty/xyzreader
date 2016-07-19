@@ -17,4 +17,5 @@
     <dimen name="margin_64">64dp</dimen>
 
     <dimen name="margin_overlay_top">32dp</dimen>
+    <dimen name="app_bar_elevation">4dp</dimen>
 </resources>
